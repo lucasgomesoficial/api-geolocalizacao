@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Incorporamos ao nosso projeto a API do Google Maps. Esta API permite a criação de mapas com locais definidos, controle de zoom, tipos de mapa, geração de rotas, pesquisa por estabelecimentos, e muitas coisas mais.
+ Integramos ao nosso projeto a API do Google Maps. Esta API permite a criação de mapas com locais definidos, controle de zoom, tipos de mapa, geração de rotas, pesquisa por estabelecimentos, e muitas coisas mais.
 Desta forma, o usuário encontrará com facilidade o restaurante sugerido na página de restaurantes de nossa aplicação.
 
 ## 🔖 Layout
