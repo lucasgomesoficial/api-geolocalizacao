@@ -3,7 +3,7 @@ let lng;
 let resultAddress;
 
 const url = "https://maps.googleapis.com/maps/api/geocode/json";
-const apiKey = "API_KEY";
+const apiKey = "AIzaSyD25MQqyQ20jDmaEM1lRNzyTGQu9TeymkY";
 const adress = "R. Amadeu Gamberini, 283 - São Miguel Paulista, São Paulo - SP";
 
 function geocode() {
