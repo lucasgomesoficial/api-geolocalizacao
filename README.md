@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-configurar">Configurar o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-configuração">Configurar o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
 <br>
 
@@ -26,8 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  Integramos ao nosso projeto a API do Google Maps. Esta API permite a criação de mapas com locais definidos, controle de zoom, tipos de mapa, geração de rotas, pesquisa por estabelecimentos, e muitas coisas mais.
 Desta forma, o usuário encontrará com facilidade o restaurante sugerido na página de restaurantes de nossa aplicação.
 
-## 🔑 Configurar o projeto
-Basta renomear a string "API_KEY" em service.js e script.js pela apikey gerada pelo cloud da google.
+## 🔑 Configuração
+Para configurar o projeto, basta renomear a string "API_KEY" em service.js e script.js pela apikey gerada pelo cloud da google.
 
  Para criar uma chave de API, siga estas etapas:
 - Na página do seletor de projetos através [DESSE LINK](https://console.cloud.google.com/projectselector2/home/dashboard?hl=pt-br&_gl=1*9t5yfm*_ga*NTA0MDIyMjUyLjE2OTM1MjI1MDA.*_ga_NRWSTWS78N*MTY5NDAzNTQ2OS4zLjAuMTY5NDAzNTQ3MC4wLjAuMA..&pli=1), no Console do Google Cloud, escolha ou crie um projeto do Google Cloud a que você quer adicionar uma chave de API.
